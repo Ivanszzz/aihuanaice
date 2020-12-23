@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\UploadNaiCeDevice\UploadNaiCeDevice\bin\Debug\UploadNaiCeDevice.dll
+C:\Users\Administrator\source\repos\UploadNaiCeDevice\UploadNaiCeDevice\bin\Debug\UploadNaiCeDevice.pdb
+C:\Users\Administrator\source\repos\UploadNaiCeDevice\UploadNaiCeDevice\obj\Debug\UploadNaiCeDevice.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UploadNaiCeDevice\UploadNaiCeDevice\obj\Debug\UploadNaiCeDevice.csproj.CopyComplete
+C:\Users\Administrator\source\repos\UploadNaiCeDevice\UploadNaiCeDevice\obj\Debug\UploadNaiCeDevice.dll
+C:\Users\Administrator\source\repos\UploadNaiCeDevice\UploadNaiCeDevice\obj\Debug\UploadNaiCeDevice.pdb
+C:\Users\Administrator\source\repos\UploadNaiCeDevice\UploadNaiCeDevice\obj\Debug\UploadNaiCeDevice.csprojAssemblyReference.cache
